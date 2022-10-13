@@ -1,2 +1,3 @@
 # React-Movie-App
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/84740266/195566879-72c10e3b-d56d-4840-8fec-c17a828c113a.png)
+
